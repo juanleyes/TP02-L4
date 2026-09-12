@@ -7,7 +7,8 @@ import Error from "./pages/Error";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      {/* Esto es para que funcione con gh-pages */}
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Inicio />} />
           <Route path="/servicios" element={<Servicios />} />
