@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP02-L4/static/css/main.3cca1711.css",
+    "main.js": "/TP02-L4/static/js/main.c49dc24a.js",
+    "index.html": "/TP02-L4/index.html",
+    "main.3cca1711.css.map": "/TP02-L4/static/css/main.3cca1711.css.map",
+    "main.c49dc24a.js.map": "/TP02-L4/static/js/main.c49dc24a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cca1711.css",
+    "static/js/main.c49dc24a.js"
+  ]
+}
